@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/responsivereactapp/static/css/main.572c8f48.chunk.css",
+    "main.js": "/responsivereactapp/static/js/main.b52cf8d3.chunk.js",
+    "main.js.map": "/responsivereactapp/static/js/main.b52cf8d3.chunk.js.map",
+    "runtime-main.js": "/responsivereactapp/static/js/runtime-main.c808b2d9.js",
+    "runtime-main.js.map": "/responsivereactapp/static/js/runtime-main.c808b2d9.js.map",
+    "static/js/2.8911d523.chunk.js": "/responsivereactapp/static/js/2.8911d523.chunk.js",
+    "static/js/2.8911d523.chunk.js.map": "/responsivereactapp/static/js/2.8911d523.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/responsivereactapp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/responsivereactapp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/responsivereactapp/index.html",
+    "static/css/main.572c8f48.chunk.css.map": "/responsivereactapp/static/css/main.572c8f48.chunk.css.map",
+    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/responsivereactapp/static/js/2.8911d523.chunk.js.LICENSE.txt",
+    "static/media/illustration-mockups.264994a5.svg": "/responsivereactapp/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo (1).2b3c07e4.svg": "/responsivereactapp/static/media/logo (1).2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c808b2d9.js",
+    "static/js/2.8911d523.chunk.js",
+    "static/css/main.572c8f48.chunk.css",
+    "static/js/main.b52cf8d3.chunk.js"
+  ]
+}
